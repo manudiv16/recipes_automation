@@ -1,0 +1,16 @@
+site_name: Mis recetas
+
+
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Recetas:
+        - algunas: recetas/recetas.md
+        - arroz: arrozdecoveflor.md
+
+
+# 
+
+
+theme: readthedocs
